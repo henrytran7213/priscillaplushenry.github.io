@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  margin: 0;
+}
+
+.numberOfMemories {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 79%;
+  margin-top:;
+  z-index: 10;
+}
+
+.memories {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 20px;
+  margin-left: 80%;
+  margin-top:-10.5%;
+  z-index: 10;
+}
+
+.numberOfDesserts {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 56.5%;
+  margin-top:;
+  z-index: 10;
+}
+
+.dessert {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 20px;
+  margin-left: 55%;
+  margin-top:-10.5%;
+  z-index: 10;
+}
+
+.numberDates {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 35%;
+  margin-top:;
+  z-index: 10;
+}
+
+.dates {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 20px;
+  margin-left: 35%;
+  margin-top:-10.5%;
+  z-index: 10;
+}
+
+.shopDuration {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 12%;
+  margin-top:;
+  z-index: 10;
+}
+
+.shopTime {
+  font-family: 'Open Sans', serif;
+  color: #FFF;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-top:-12%;
+  z-index: 10;
+}
+
+.hobbiesContainer {
+  margin-top: 5%;
+  background-color:#FFBDFC;
+  max-width: 100%;
+  height:200px;
+  z-index: 0;
+}
+.progress-bar3 {
+  width: 95%;
+  height: 25px;
+  background-color: #FFBDFC;
+}
+
+.shopping {
+  font-family: 'Open Sans', serif;
+  color: #6B6B6B;
+  font-size: 20px;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+
+.progress-bar2 {
+  width: 85%;
+  height: 25px;
+  background-color: #FFBDFC;
+}
+
+.lookingAtModelHouses {
+  font-family: 'Open Sans', serif;
+  color: #6B6B6B;
+  font-size: 20px;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+
+.percent {
+  color: white;
+  font-family: 'Open Sans', serif;
+  font-size: 20px;
+  margin-left: 50%;
+}
+
+.progress-bar {
+  width: 90%;
+  height: 25px;
+  background-color: #FFBDFC;
+}
+
+.kbbq {
+  font-family: 'Open Sans', serif;
+  color: #6B6B6B;
+  font-size: 20px;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.underline-three {
+  height:1px;
+  border-bottom:3px solid #FFBDFC;
+  width: 200px;
+  margin-left: 42.5%;
+  margin-top:;
+}
+
+.progress-text {
+  font-family: avenir;
+  font-size: 40px;
+  clear: both;
+  margin-left: 40%;
+  margin-top: 4%;
+  color: #6B6B6B;
+}
+
+.progress-border-one {
+  width: 70%;
+  height: 25px;
+  background-color: #D6D6D6;
+  margin-left: 15%;
+}
+.progress-container {
+  clear: both;
+  margin-top: 48%;
+}
+
+.underline-two {
+  height:1px;
+  border-bottom:1px solid #979797;
+  width: 100%;
+  opacity: 0.7;
+  margin-top: 10%;
+  clear: both;
+}
+
+.bg {
+  background-image: url("../images/sugarcrush.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.container {
+  width: 800px;
+  height: 800px;
+}
+
+.intro-text {
+  letter-spacing: 5px;
+  font-family: arial;
+  color: white;
+  text-align: center;
+  position: absolute;
+  margin-left: 45%;
+  margin-top: 40%;
+  height: 50px;
+  width: 200px;
+  background-color: #272727;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+.button {
+background: transparent;
+color: white;
+font-size:18px;
+width: 10%;
+height: 40%;
+font-family: futura;
+float: left;
+text-align: center;
+margin-top: 3%;
+text-decoration: none;
+}
+
+.button:hover {
+  color: #FFBDFC;
+  text-decoration: underline;
+}
+
+.about {
+  font-family: 'Open Sans',serif;
+  font-weight: lighter;
+  margin-top: 5%;
+  margin-left: 10%;
+  color: #6B6B6B;
+}
+
+.underline-one {
+  height:1px;
+  border-bottom:3px solid #FFBDFC;
+  width: 100px;
+  margin-left: 10%;
+  margin-top: -0.5%;
+}
+
+.disneyPhoto {
+  margin-left: 10%;
+  margin-top: 4%;
+  float: left;
+}
+
+.about-text {
+  display: inline-block;
+  float: right;
+  position: relative;
+  margin-left: 45%;
+  margin-right: 10%;
+  margin-top: -42%;
+  font-family: 'Open Sans',serif;
+  color: #6B6B6B;
+  line-height: 40px;
+}
